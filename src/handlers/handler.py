@@ -13,7 +13,7 @@ app = Flask(__name__)
 def rossmann_predict():
 
     # loading model
-    model = pickle.load(open("model/model_rossmann.pkl", "rb"))
+    model = pickle.load(open("models/model_rossmann.pkl", "rb"))
 
     test_json = request.get_json()
 

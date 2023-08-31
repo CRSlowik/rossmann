@@ -9,6 +9,7 @@ import pandas as pd
 
 class Rossmann(object):
     def __init__(self):
+        self.home_path=''
         self.competition_time_month_scaler = pickle.load(
             open("../src/features/competition_time_month_scaler.pkl", "rb")
         )
