@@ -210,8 +210,6 @@ Com o modelo selecionado e treinado, obtivemos a seguinte performance de negóci
 
 ![](img/error_distribution_store.png)
 
-![Distribuição das Previsões por Loja](link_para_a_imagem)
-
 ## Conclusões
 
 Este projeto resolveu com sucesso o problema inicial de previsão de faturamento das lojas, que anteriormente era feito manualmente pelos gerentes. Além disso, a criação do BOT para o aplicativo de mensagens Telegram proporcionou maior agilidade na obtenção de informações para o CFO.
