@@ -50,7 +50,7 @@ Esta solução não apenas simplificará o processo de tomada de decisão, mas t
 
 Nossa abordagem para fornecer rapidamente uma solução valiosa à empresa e capacitar o CFO com informações ágeis baseia-se na metodologia CRISP-DM aplicada a Ciência de Dados.
 
-![](img/crisp_dm.png)
+![](img/crisp_dm.jpg)
 
 O CRISP-DS é um processo cíclico com nove etapas, onde aprimoramos constantemente os resultados de negócios. Isso nos permite entregar resultados cada vez mais rápidos, com maior qualidade e precisão. O objetivo é fornecer às equipes que utilizarão os resultados um produto minimamente utilizável na primeira entrega e aperfeiçoá-lo ao longo do tempo.
 
